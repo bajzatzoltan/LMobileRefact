@@ -1,0 +1,7 @@
+E:\Source\C#\LMobileRefact\LMobileRefact\obj\Debug\LMobileRefact.csprojAssemblyReference.cache
+E:\Source\C#\LMobileRefact\LMobileRefact\obj\Debug\LMobileRefact.csproj.CoreCompileInputs.cache
+E:\Source\C#\LMobileRefact\LMobileRefact\bin\Debug\LMobileRefact.exe.config
+E:\Source\C#\LMobileRefact\LMobileRefact\bin\Debug\LMobileRefact.exe
+E:\Source\C#\LMobileRefact\LMobileRefact\bin\Debug\LMobileRefact.pdb
+E:\Source\C#\LMobileRefact\LMobileRefact\obj\Debug\LMobileRefact.exe
+E:\Source\C#\LMobileRefact\LMobileRefact\obj\Debug\LMobileRefact.pdb
