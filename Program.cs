@@ -37,6 +37,7 @@ namespace LMobileRefact
             {
                 Console.WriteLine(ex.Message);
             }
+
             Console.ReadKey();
         }
     }
